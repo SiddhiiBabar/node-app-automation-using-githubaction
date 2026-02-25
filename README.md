@@ -1,1 +1,1 @@
-# node-app-automation-using-githubaction
+# deplo-node-using-githubactions
